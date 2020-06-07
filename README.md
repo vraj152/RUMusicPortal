@@ -18,10 +18,6 @@ Web Portal for the [RUMusic](https://github.com/vraj152/RUMusic)
   P.S.: Slider code is borrowed from -> [Here](https://refreshless.com/nouislider/)
   * [songPlayer.jsp](https://github.com/vraj152/RUMusicPortal/blob/master/WebContent/songPlayer.jsp): When user searches any song, he/she can play that song as well. <br>
   This page renders the music player and also below it system will recommend 15 songs based on the current song. (Demo can be found in README file of [RUMusic](https://github.com/vraj152/RUMusic)).
-* Application demo:
-<p>
-  <img src="output/NewRecording.mp4" title="Application demo"> </img>
-</p>
+* Application demo can be found here -> [Link](https://github.com/vraj152/RUMusicPortal/blob/master/output/NewRecording.mp4)
 * Let me know if you have got any question/suggestion on this. :punch:
-  
   
