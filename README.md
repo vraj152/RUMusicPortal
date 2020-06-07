@@ -14,16 +14,14 @@ Web Portal for the [RUMusic](https://github.com/vraj152/RUMusic)
     * And user can use core functionality of application that is recommendation. He/she can fill the form (which contains sliders) to let us know which sort of songs they want to listen. <br>
     System will build item profile based on the preference given, and will recommend songs accordingly. <br>
     P.S.: It searches through ~340K songs, so it takes 15-20 seconds to generate output.
-     
-<p>
-  <img src="output/searchDemo"> </img>
-</p>
-
   * [questionForm.jsp](https://github.com/vraj152/RUMusicPortal/blob/master/WebContent/questionForm.jsp): It will render the page which contains form with several fields (sliders) and will recommend 50 songs to the user.
   P.S.: Slider code is borrowed from -> [Here](https://refreshless.com/nouislider/)
   * [songPlayer.jsp](https://github.com/vraj152/RUMusicPortal/blob/master/WebContent/songPlayer.jsp): When user searches any song, he/she can play that song as well. <br>
   This page renders the music player and also below it system will recommend 15 songs based on the current song. (Demo can be found in README file of [RUMusic](https://github.com/vraj152/RUMusic)).
-  
+* Application demo:
+<p>
+  <img src="output/NewRecording.mp4" title="Application demo"> </img>
+</p>
 * Let me know if you have got any question/suggestion on this. :punch:
   
   
